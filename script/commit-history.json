@@ -1,17 +1,36 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "d8c4109513b0e01e59c736034b3edd91e55e5949",
     "author": "Lackio-EL-14",
     "commit": {
       "date": "2025-08-19T04:31:48.000Z",
       "message": "Funcion multiplicar",
-      "url": "https://github.com/Lackio-EL-14/Calculadora/commit/HEAD"
+      "url": "https://github.com/Lackio-EL-14/Calculadora/commit/d8c4109513b0e01e59c736034b3edd91e55e5949"
     },
     "stats": {
       "total": 35,
       "additions": 34,
       "deletions": 1,
       "date": "2025-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lackio-EL-14",
+    "commit": {
+      "date": "2025-08-21T12:59:57.000Z",
+      "message": "feat: Saludando por un nombre",
+      "url": "https://github.com/Lackio-EL-14/Saludo-incremenal/commit/HEAD"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 12,
+      "deletions": 32,
+      "date": "2025-08-21"
     },
     "coverage": 100,
     "test_count": 1,

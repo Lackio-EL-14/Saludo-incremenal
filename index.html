@@ -1,30 +1,14 @@
 <!DOCTYPE html>
 <html xml:lang="es">
-   <head>
-    <title>Sumador</title>
-  </head>
+ 
   <body>
-    <h1>Sumador</h1>
-    <form id="sumar-form">
-      <label for="primer-numero">Primer número:</label>
-      <input type="number" id="primer-numero" />
-      <label for="segundo-numero">Segundo número:</label>
-      <input type="number" id="segundo-numero" />
-      <input type="submit" value="Sumar" id="sumar-button" />
+    <h2>Cual es tu nombre? </h2>  
+    <form id="nombre-form">
+      <input type="text" id="nombre" />
+       <button type="submit">Saludar</button>
     </form>
-    <div id="resultado-div"></div>
-
-  <h1>Multiplicador</h1>
-    <form id="mul-form">
-      <label for="mul-primer-numero">Primer número:</label>
-      <input type="number" id="mul-primer-numero" />
-      <label for="mul-segundo-numero">Segundo número:</label>
-      <input type="number" id="mul-segundo-numero" />
-      <input type="submit" value="Multiplicar" id="multiplicar-button" />
-    </form>
-    <div id="resultado-multiplicacion"></div>
+     <div id="resultado"></div>
 
     <script type="module" src="./src/presenter.js"></script>
-    <script type="module" src="./src/presenterr.js"></script>
   </body>
 </html>
