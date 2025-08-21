@@ -3,14 +3,14 @@ function saludarSegunHora(nombre) {
   const hora = fecha.getHours();
     let saludo;
     if (hora < 12) {
-        saludo = "Buenos días" + nombre;
+        saludo = "Buenos días " + nombre;
     } else if (hora < 18) {
-        saludo = "Buenas tardes" + nombre;
+        saludo = "Buenas tardes " + nombre;
     
     } else if (hora < 24) {
-        saludo = "Buenas noches" + nombre;
+        saludo = "Buenas noches " + nombre;
     } else {
-        saludo = "Buen madruge" + nombre;
+        saludo = "Buen madruge " + nombre;
     }   
     return saludo;
 }

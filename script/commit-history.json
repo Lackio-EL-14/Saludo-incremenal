@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "93aad1aa8c19f6193e20fe5572453f598a3512e4",
     "author": "Lackio-EL-14",
     "commit": {
       "date": "2025-08-21T13:11:32.000Z",
       "message": "feat: Saludando segun la hora del dia",
-      "url": "https://github.com/Lackio-EL-14/Saludo-incremenal/commit/HEAD"
+      "url": "https://github.com/Lackio-EL-14/Saludo-incremenal/commit/93aad1aa8c19f6193e20fe5572453f598a3512e4"
     },
     "stats": {
       "total": 24,
       "additions": 23,
       "deletions": 1,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lackio-EL-14",
+    "commit": {
+      "date": "2025-08-21T13:13:53.000Z",
+      "message": "fix: Ahora hay un espacio despues del saludo",
+      "url": "https://github.com/Lackio-EL-14/Saludo-incremenal/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 4,
+      "deletions": 4,
       "date": "2025-08-21"
     },
     "coverage": 100,
