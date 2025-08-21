@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ee8c29e611692ef903593d5f5e71a85f6734553c",
     "author": "Lackio-EL-14",
     "commit": {
       "date": "2025-08-21T13:13:53.000Z",
       "message": "fix: Ahora hay un espacio despues del saludo",
-      "url": "https://github.com/Lackio-EL-14/Saludo-incremenal/commit/HEAD"
+      "url": "https://github.com/Lackio-EL-14/Saludo-incremenal/commit/ee8c29e611692ef903593d5f5e71a85f6734553c"
     },
     "stats": {
       "total": 8,
       "additions": 4,
       "deletions": 4,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lackio-EL-14",
+    "commit": {
+      "date": "2025-08-21T13:44:13.000Z",
+      "message": "feat: Ahora tambien saludamos por genero",
+      "url": "https://github.com/Lackio-EL-14/Saludo-incremenal/commit/HEAD"
+    },
+    "stats": {
+      "total": 32,
+      "additions": 29,
+      "deletions": 3,
       "date": "2025-08-21"
     },
     "coverage": 100,
