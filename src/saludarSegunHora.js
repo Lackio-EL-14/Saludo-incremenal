@@ -1,6 +1,4 @@
-function saludarSegunHora(nombre, idioma = "es") {
-  const fecha = new Date();
-  const hora = fecha.getHours();
+function saludarSegunHora(nombre, idioma = "es", hora = new Date().getHours()) {
   let saludo;
   if (idioma === "en") {
     if (hora < 12) {
@@ -14,7 +12,7 @@ function saludarSegunHora(nombre, idioma = "es") {
     }
   } else {
     if (hora < 12) {
-      saludo = "Buenos días " + nombre;
+      saludo = "Buenos dias " + nombre;
     } else if (hora < 18) {
       saludo = "Buenas tardes " + nombre;
     } else if (hora < 24) {
