@@ -95,17 +95,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3615db9e9f3ab0a2b6d10882d06dc22db2f97e72",
     "author": "Lackio-EL-14",
     "commit": {
       "date": "2025-08-25T13:07:40.000Z",
       "message": "feat: Ahora podemos identificar la edad y dar un saludo mas adecuado",
-      "url": "https://github.com/Lackio-EL-14/Saludo-incremenal/commit/HEAD"
+      "url": "https://github.com/Lackio-EL-14/Saludo-incremenal/commit/3615db9e9f3ab0a2b6d10882d06dc22db2f97e72"
     },
     "stats": {
       "total": 58,
       "additions": 41,
       "deletions": 17,
+      "date": "2025-08-25"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lackio-EL-14",
+    "commit": {
+      "date": "2025-08-25T13:51:12.000Z",
+      "message": "Ahora saludamos en ingles",
+      "url": "https://github.com/Lackio-EL-14/Saludo-incremenal/commit/HEAD"
+    },
+    "stats": {
+      "total": 93,
+      "additions": 61,
+      "deletions": 32,
       "date": "2025-08-25"
     },
     "coverage": 100,
